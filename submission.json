@@ -1,0 +1,7 @@
+{
+  "prompt": "A cinematic single-frame shot of a sleek, polished white marble path ascending into brilliant light, suspended high above a sprawling, dark, brutalist stone labyrinth. The labyrinth below is shrouded in thick gray fog and rain, appearing endless and inescapable. The contrast between the singular luxury above and the collective chaos below is stark. No text, no labels, hyper-realistic, 8k.",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "World Bank GINI Index - Wealth Inequality",
+  "dataset_url": "https://data.worldbank.org/indicator/SI.POV.GINI",
+  "insight": "The structural gap between the top 1% and the global majority is not just wide, but fundamentally detached, where the path to success for a few is elevated and separated from the systemic maze faced by the many."
+}
